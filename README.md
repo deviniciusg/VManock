@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VManock
-- 👀 I’m interested in Html, Css, Js, Frontend in general. 
+- 👀 I’m interested in HTML, CSS, Js, Frontend in general. 
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on Frontend
 - 📫 How to reach me @VManock or Dev.ini in social media.
