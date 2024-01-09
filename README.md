@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VManock
+- 👋 Hi, I’m @deviniciusg
 - 👀 I’m interested in HTML, CSS, Js, Frontend in general. 
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on Frontend
